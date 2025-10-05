@@ -1,4 +1,4 @@
-name: Test Action with Email
+name: Test Action with Emails
 
 on:
   push:
